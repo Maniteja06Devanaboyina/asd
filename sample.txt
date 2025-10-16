@@ -2,3 +2,4 @@ Hello, this is a sample text file.
 It contains multiple lines.
 Some lines repeat, some don't.
 Let’s analyze this file.
+Hello
