@@ -3,3 +3,4 @@ It contains multiple lines.
 Some lines repeat, some don't.
 Let’s analyze this file.
 Hello
+hi
